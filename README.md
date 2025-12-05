@@ -1,3 +1,3 @@
-Esta é a versão oficial da MASTER
+# Meu primeiro projeto Git
 
-Atualização feita pelo meu colega via GitHub.
+## Estudos de git e GitHub
